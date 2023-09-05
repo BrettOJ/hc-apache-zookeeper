@@ -664,7 +664,7 @@ volumePermissions:
     registry: docker.io
     repository: bitnami/os-shell
     tag: 11-debian-11-r51
-    digest: ""
+    digest: "sha256:da28c5fef08b9015972d7777e15c86ca275477863cb84d0ca41e5089cb5d3d53"
     pullPolicy: IfNotPresent
     ## Optionally specify an array of imagePullSecrets.
     ## Secrets must be manually created in the namespace.
